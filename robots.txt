@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.lnxswrv.cn/sitemap.xml

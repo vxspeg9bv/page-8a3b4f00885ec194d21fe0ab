@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "51e646ad56389fbf7ac7d566",
+  "owner": "vxspeg9bv",
+  "repo": "page-8a3b4f00885ec194d21fe0ab",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8a3b4f00885ec194d21fe0ab",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c3ee9fde69812c7848752ed77d47db3004f15ca292c2c17e6f0ae5849c635966",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬为您提供基础版、旗舰版和团队版的VPN加速服务，支持多设备在线和流媒体解锁。选择适合您的方案，下载客户端体验极速网络。",
+          "AI_DESCRIPTION": "快柠檬为您提供基础版、旗舰版和团队版的VPN加速服务，支持多设备在线和流媒体解锁。选择适合您的方案，下载客户端体验极速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\n  :root {\n    --purple: #6b5b95;\n    --light-gray: #f8f9fa;\n  }\n  body {\n    font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n    margin: 0;\n    padding: 0;\n    background-color: var(--light-gray);\n    color: #333333;\n    line-height: 1.7;\n  }\n  header {\n    background: linear-gradient(135deg, #6b5b95, #8e7ab8);\n    color: white;\n    padding: 1rem 0;\n  }\n  nav {\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 0 2rem;\n  }\n  nav a {\n    color: white;\n    text-decoration: none;\n    margin: 0 1rem;\n    font-weight: bold;\n  }\n  main {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 2rem;\n  }\n  h1 {\n    color: var(--purple);\n    font-size: 2.8rem;\n    margin-bottom: 1rem;\n  }\n  h2 {\n    color: var(--purple);\n    font-size: 1.8rem;\n    border-bottom: 3px solid #d4c5e0;\n    padding-bottom: 0.5rem;\n    margin: 2rem 0 1rem;\n  }\n  p {\n    margin-bottom: 1rem;\n  }\n  .btn {\n    background: var(--purple);\n    color: white;\n    padding: 0.75rem 1.5rem;\n    border-radius: 4px;\n    text-decoration: none;\n    font-weight: bold;\n    display: inline-block;\n    margin: 1rem 0;\n  }\n  .btn:hover {\n    background: #8e7ab8;\n  }\n  details {\n    background: white;\n    margin: 1rem 0;\n    border-radius: 8px;\n    overflow: hidden;\n    box-shadow: 0 2px 4px rgba(0,0,0,0.05);\n  }\n  summary {\n    padding: 1rem;\n    font-weight: bold;\n    cursor: pointer;\n    background: #f8f9fa;\n    border-bottom: 1px solid #e0e0e0;\n  }\n  summary:hover {\n    background: #f0f2f5;\n  }\n  details[open] summary {\n    background: #e0e0e0;\n  }\n  details p {\n    padding: 1rem;\n    margin: 0;\n  }\n  section#plans, section#clients {\n    margin: 2rem 0;\n  }\n</style>\n\n\n<header>\n<nav>\n<a href=\"#plans\">套餐选择</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#clients\">合作伙伴</a>\n</nav>\n</header>\n<main>\n<h1>快柠檬</h1>\n<p>快柠檬是一款专注于提供高速网络加速服务的VPN平台，旨在帮助用户畅享稳定、安全的互联网体验。</p>\n<h2>使用场景</h2>\n<p>快柠檬适用于多种场景，包括日常网络浏览、流媒体平台解锁、在线游戏加速以及远程办公等场景，为用户提供便捷的网络解决方案。</p>\n<h2>操作说明</h2>\n<p>快柠檬的操作非常简单：选择合适的套餐后，下载并安装客户端，按照提示连接加速节点即可完成使用。</p>\n<h2>常见问题</h2>\n<details>\n<summary>快柠檬是什么？</summary>\n<p>快柠檬是一款专业的VPN加速器，提供安全稳定的网络连接服务。</p>\n</details>\n<details>\n<summary>快柠檬支持多少台设备？</summary>\n<p>根据不同套餐选择，基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备。</p>\n</details>\n<details>\n<summary>快柠檬支持流媒体解锁吗？</summary>\n<p>旗舰版及以上套餐支持原生流媒体解锁。</p>\n</details>\n<details>\n<summary>快柠檬如何优化游戏加速？</summary>\n<p>旗舰版提供IPLC专线游戏加速优化。</p>\n</details>\n<details>\n<summary>如何选择适合自己的套餐？</summary>\n<p>根据您的设备数量、流量需求和使用偏好选择基础版、旗舰版或团队版。</p>\n</details>\n<section id=\"plans\">\n{{PLANS_HTML}}\n</section>\n<section id=\"clients\">\n{{CLIENTS_HTML}}\n</section>\n</main>\n\n",
+          "hash": "8f7c05c5de4bf6ede1e200a6576fc1b01cb19bc869f0f535c21ea2c63ff2f747",
+          "seo": {
+            "title": "快柠檬VPN | 高速加速器 | 客户端下载",
+            "keywords": "快柠檬, VPN, 加速器, 客户端, 下载, 高速VPN",
+            "description": "快柠檬为您提供基础版、旗舰版和团队版的VPN加速服务，支持多设备在线和流媒体解锁。选择适合您的方案，下载客户端体验极速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lnxswrv.cn",
+    "host": "home.lnxswrv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "lnxswrv.cn",
+      "url": "https://lnxswrv.cn/",
+      "label": "奶瓶(Nerwo)",
+      "apex": "lnxswrv.cn",
+      "kind": null,
+      "identity": "hhhgjpduk/page-c30cf6a7b285380cc55a45fd"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a7cc4eb87c9eed476e89805938d0fd264a8f3082029ce4d19f5d297ef7393bea",
+    "sitemap.xml": "b4016925defd00f1892895d0c0e8678e9f0558cacc145c725051f52958de8bf1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a71e6e59451799dcb01e353847a5567dd24581febbc618ca17463fd8a2c79040",
+    "robots.txt": "1c152bd09872f7eff78ec574184297c9ebe94edea885be2f41196ab7b933b920",
+    "5e4a0cf1ccf2e89c390030d7c846ea9a.txt": "8c61199d04ea71f3e0255fdc58e2d5970dd396cb58cbfb609a3520d212cca361"
+  },
+  "revision": "190cfd1cf62a7864b1cce873acbfb3b3ba9d69b148e207f3093d9e6addaf59c8"
+}
